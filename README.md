@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaizer228&show_icons=true&locale=en" alt="kaizer228" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer228&" alt="kaizer228" /></p>
+<p><img align="center" style="color:black; src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer228&" alt="kaizer228" /></p>
