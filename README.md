@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=tailwind&logoColor=white">
 <img src="https://img.shields.io/badge/Netbeans-FE7A16.svg?style=for-the-badge&logo=Netbeans&logoColor=white">
-<img src="https://img.shields.io/badge/Express-FA7343?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Express-FA7343?style=for-the-badge&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
 <img src="https://img.shields.io/badge/Saas-02569B?style=for-the-badge&logo=saas&logoColor=white">
 
