@@ -27,16 +27,16 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
 <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
-<img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=netbeans&logoColor=white">
+<img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=nodejs&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=tailwind&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Netbeans-FE7A16.svg?style=for-the-badge&logo=Netbeans&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=saas&logoColor=white">
+<img src="https://img.shields.io/badge/Saas-02569B?style=for-the-badge&logo=saas&logoColor=white">
 
 
  
