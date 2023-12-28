@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A passionate frontend developer from Phillipines</h3>
-
+<img align="right" width="400" src="https://www.shutterstock.com/video/clip-1107060421-computer-binary-matrix-digital-rain-information-flow">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizer228&label=Profile%20views&color=0e75b6&style=flat" alt="kaizer228" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizer228" alt="kaizer228" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://marc-erman.netlify.app/](https://marc-erman.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Kaizer228/Kaizer228/]([https://marc-erman.netlify.app/](https://github.com/Kaizer228/Kaizer228/))
 
 - ⚡ Fun fact **I'm undefined**
 
