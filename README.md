@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A passionate frontend developer from Phillipines</h3>
-<img align="right" width="400" src="[https://www.shutterstock.com/video/clip-1107060421-computer-binary-matrix-digital-rain-information-flow](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcoding&psig=AOvVaw0zE1anOr2_dEjI5u54KtSw&ust=1703830395025000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCj9P-8sYMDFQAAAAAdAAAAABAE)">
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcoding&psig=AOvVaw0zE1anOr2_dEjI5u54KtSw&ust=1703830395025000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCj9P-8sYMDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizer228&label=Profile%20views&color=0e75b6&style=flat" alt="kaizer228" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizer228" alt="kaizer228" /></a> </p>
