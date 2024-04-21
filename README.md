@@ -30,7 +30,7 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer228&show_icons=true&locale=en&layout=compact" alt="kaizer228" /></p>
 
