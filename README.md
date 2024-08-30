@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="supabase logo"  />
     <img width="12" />
-  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="30" alt="supabase logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWtWqoaak2gstfb1Vg-Op9th4S6KBzxC6VH2c4aM59XAW4ChFwZqfg3ZA0GJkO5yu-M0&usqp=CAU" height="30" alt="supabase logo"  />
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="30" alt="supabase logo"  />
    <img width="12" />
