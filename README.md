@@ -47,7 +47,7 @@
     <img width="12" />
   <img src="https://ui.shadcn.com/apple-touch-icon.png" height="30" alt="supabase logo"  />
      <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XGMufICkUVJQNhlwm6Mt07pQNOC2jeIOhQ&s" height="30" alt="supabase logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XGMufICkUVJQNhlwm6Mt07pQNOC2jeIOhQ&s](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="30" alt="supabase logo"  />
   
  
  
