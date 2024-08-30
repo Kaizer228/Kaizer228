@@ -44,9 +44,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" height="30" alt="supabase logo"  />
     <img width="12" />
   <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" height="30" alt="supabase logo"  />
-   
     <img width="12" />
   <img src="https://ui.shadcn.com/apple-touch-icon.png" height="30" alt="supabase logo"  />
+     <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XGMufICkUVJQNhlwm6Mt07pQNOC2jeIOhQ&s" height="30" alt="supabase logo"  />
   
  
  
