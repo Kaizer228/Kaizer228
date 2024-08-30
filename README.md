@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://w7.pngwing.com/pngs/414/85/png-transparent-nodejs-javascript-runtime-backend-node-js-logo-3d-icon.png" height="30" alt="supabase logo"  />
     <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="30" alt="supabase logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFX07-KmUNvMnp10yRr1ZcRyvAQyNUuu6yVJuf1D1E1XYpp8mvhMgtiQ02Wh2VB1nB0sc&usqp=CAU" height="30" alt="supabase logo"  />
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="supabase logo"  />
     <img width="12" />
