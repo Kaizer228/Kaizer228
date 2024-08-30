@@ -42,6 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="supabase logo"  />
     <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" height="30" alt="supabase logo"  />
+    <img width="12" />
+  <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" height="30" alt="supabase logo"  />
+    <img width="12" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn050vaT4lrxqSGhFsqIJEqZATeSIjn41HSQ&s)" height="30" alt="supabase logo"  />
+  
  
  
 </div>
