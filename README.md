@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/590998c3-1485-4447-b9ab-c741824dd072)<h2 align="left">Hi 👋! My name is Marc and I'm a Aspiring Full-stack Developer, from Philippines</h2>
+<h2 align="left">Hi 👋! My name is Marc and I'm a Aspiring Full-stack Developer, from Philippines</h2>
 
 ###
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"</img>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/?
  
 
 ###
