@@ -11,7 +11,7 @@
 <p>
  I'm 19 years old full-stack developer with nearly one year of experience in freelancing, I have handled various projects that have significantly enhanced my skills in full-stack development. This experience has also improved my communication and design skills across both mobile and web platforms, utilizing the JavaScript ecosystem.
 </p>
-###
+ 
 
 <h2 align="left">Skills</h2>
 
