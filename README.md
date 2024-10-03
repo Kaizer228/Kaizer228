@@ -1,10 +1,16 @@
-<h2 align="left">Hi 👋! My name is Marc and I'm a Aspiring Full-stack Developer, from Philippines</h2>
-
+ 
 ###
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
  
+###
 
+<h2 align="left">Hi 👋 I'm Marc Erman Martinez</h2>
+
+###
+<p>
+ I'm 19 years old full-stack developer with nearly one year of experience in freelancing, I have handled various projects that have significantly enhanced my skills in full-stack development. This experience has also improved my communication and design skills across both mobile and web platforms, utilizing the JavaScript ecosystem.
+</p>
 ###
 
 <h2 align="left">Skills</h2>
