@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Marc and I'm a Aspiring Full-stack Developer, from Philippines</h2>
+![image](https://github.com/user-attachments/assets/590998c3-1485-4447-b9ab-c741824dd072)<h2 align="left">Hi 👋! My name is Marc and I'm a Aspiring Full-stack Developer, from Philippines</h2>
 
 ###
 
-<img src="https://scontent.fcrk1-5.fna.fbcdn.net/v/t39.30808-6/419675862_1591273428309569_770146721535667605_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFLF8aucYtf9P63sWzuNYte3fOHiCWKpGDd84eIJYqkYJ77YHWnR8n7dRhsqVkTSLGn1Azf1sjupLGx5ev8HkOI&_nc_ohc=2qQvV3mG3cgQ7kNvgFgu98Q&_nc_ht=scontent.fcrk1-5.fna&oh=00_AYAZ7-ri9tM4qfNb8qbE5XKRTB75VQmyGHce7XfVMJyxSw&oe=66D7171F" height="295" width="auto"   ></img>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"</img>
  
 
 ###
