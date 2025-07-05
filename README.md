@@ -55,7 +55,7 @@
  
   <img src="https://ui.shadcn.com/apple-touch-icon.png" height="30"   width="30"  alt="supabase logo"  />
      <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fc%2Fsupabase&psig=AOvVaw23PhFGv44ciK2ucVmuLrEa&ust=1751807308715000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiXw_TkpY4DFQAAAAAdAAAAABAL" height="30"  width="30"  alt="supabase logo"  />
+  
       <img width="12" />
   <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s"  width="30"  height="30" alt="supabase logo"  />
   
